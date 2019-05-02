@@ -1,2 +1,0 @@
-# RandomCardGenerator
-Created with CodeSandbox
